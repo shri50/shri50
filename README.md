@@ -10,6 +10,10 @@ A passionate self-taught Data Scientist from india. my passion for AILML lies wi
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..
 
+
+
+<code><img height="20" src="https://github.com/shri50/ShridharShende/blob/main/code.gif"></code>
+
 <!---
 shri50/shri50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
