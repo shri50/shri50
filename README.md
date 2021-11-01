@@ -5,14 +5,14 @@ A passionate self-taught Data Scientist from india. my passion for AILML lies wi
 - 💬 ask me about anything, i am happy to help;
 
 - 👋 Hi, I’m Shridhar Shende 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ..
+- 👀 I’m interested in AI/ML/DL
+- 🌱 I’m currently working Deep Learning 
+- 💞️ I’m looking for fresh opportunity in AI/ML/DL
+- 📫 How reach me - shridharshende50@gmail.com
 
 
 
-<code><img height="20" src="https://github.com/shri50/ShridharShende/blob/main/code.gif"></code>
+<code><img height=auto src="https://github.com/shri50/ShridharShende/blob/main/code.gif"></code>
 
 <!---
 shri50/shri50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
