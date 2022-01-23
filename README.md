@@ -1,18 +1,19 @@
-### hi, i'm [Shridhar Shende](https://shridharshende.me/)
+### hi, i'm [Shridhar Shende](https://shridharshende.in/)
 
 A passionate self-taught Data Scientist from india. my passion for AI/ML lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-- 💬 ask me about anything, i am happy to help;
+NOW
+- 🏢 I'm currently working at BBI
 
-- 👋 Hi, I’m Shridhar Shende 
-- 👀 I’m interested in AI/ML/DL
-- 🌱 I’m currently working Deep Learning 
-- 💞️ I’m looking for fresh opportunity in AI/ML/DL
+BIO
+- 👀 I’m interested in AI/ML/DL, Blockchain
+- 🌱 Area of working Deep Learning, Computer Vision 
+- 💞️ Learning all about Open Source
 - 📫 How reach me - shridharshende50@gmail.com
+- ⚙️ I use daily: .py
+- ⚡️ Fun fact: I'm a huge fan of F1
 
-
-
-<code><img height=auto src="https://github.com/shri50/ShridharShende/blob/main/code.gif"></code>
+- 💬 ask me about anything, i am happy to help;
 
 <!---
 shri50/shri50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
