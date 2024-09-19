@@ -11,7 +11,7 @@ BIO
 - 🌱 Area of working Deep Learning, Computer Vision 
 - 💞️ Learning all about Open Source
 - 📫 How reach me - shridharshende50@gmail.com
-- ⚙️ I use daily: .py, vscode, flask, aws, sagemkaer
+- ⚙️ I use daily: .py, vscode, flask, azure, databricks
 - ⚡️ Fun fact: I'm a huge fan of F1
 
 - 💬 ask me about anything, i am happy to help;
