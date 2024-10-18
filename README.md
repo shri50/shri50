@@ -4,7 +4,7 @@
 A passionate self-taught Data Scientist from india. my passion for AI/ML lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 # 💫 About Me:
-NOW<br><br>🏢 I'm currently working at BizMetric<br><br>BIO<br><br>👀 I’m interested in AI/ML/DL/NLP/MLOps<br><br>🌱 Area of working Deep Learning, Computer Vision<br><br>💞️ Learning all about Open Source<br><br>📫 How reach me - shridharshende50@gmail.com<br><br>⚙️ I use daily: .py, vscode, flask, azure, databricks<br><br>⚡️ Fun fact: I'm a huge fan of F1<br><br>💬 ask me about anything, i am happy to help;
+NOW<br><br>🏢 I'm currently working at BizMetric<br><br>BIO<br><br>👀 I’m interested in AI/ML/DL/NLP/MLOps<br><br>🌱 Area of working ML, DL, CV<br><br>💞️ Learning all about Open Source<br><br>📫 How reach me - shridharshende50@gmail.com<br><br>⚙️ I use daily: .py, vscode, flask, azure, databricks<br><br>⚡️ Fun fact: I'm a huge fan of F1<br><br>💬 ask me about anything, i am happy to help;
 
 
 ## 🌐 Socials:
